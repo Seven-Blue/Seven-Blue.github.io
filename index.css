@@ -1,0 +1,25 @@
+body{
+    background-image: url(lavender-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: mediumpurple;
+}
+
+.navbar{
+    background-color: #8c02c7!important;
+}
+
+
+
+
+.navbar-light .navbar-brand{
+    color: #f5f5f5;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+    color: #f5f5f5;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: #f5f5f5;
+}
